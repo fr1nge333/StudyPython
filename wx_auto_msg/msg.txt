@@ -1,0 +1,6 @@
+opencv-contrib-python 4.5.4.60
+C:\Users\{user_name}\AppData\Roaming\pip
+[global]
+index-url = https://mirrors.aliyun.com/pypi/simple/
+[install]
+trusted-host = https://mirrors.aliyun.com/pypi
